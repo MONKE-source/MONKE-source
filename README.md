@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Arth 👋
 
-<!--
-**MONKE-source/MONKE-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 🚀
+Im currently a student in SST and have a passion for app development  
+Im also interested in learning more about cybersecurity 
 
-Here are some ideas to get you started:
+## Skills 🧑‍💻
+- Javascript
+- Python
+- HTML
+- CSS
+- React
+- React native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 🤔
+Im interested in learning more about python and javascript  
+Soon hope to learn how to code in flutter  
+
+## My favourite projects: 
+- [SST Open House App 2024][https://github.com/sst-inc/openhouseapp2024]
+- [ASPA App!!][https://github.com/MONKE-source/aspa]
+- [ML model][https://github.com/tedydevmac/S3T3CPPT]
