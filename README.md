@@ -16,6 +16,7 @@ Im also interested in learning more about cybersecurity
 Im interested in learning more about python and javascript  
 Soon hope to learn how to code in flutter  
 
+
 ## My favourite projects: 
 - [SST Open House App 2024](https://github.com/sst-inc/openhouseapp2024)
 - [ASPA App!!](https://github.com/MONKE-source/aspa)
@@ -23,3 +24,5 @@ Soon hope to learn how to code in flutter
 - [Virtual tour](https://github.com/tedydevmac/virtualtour)
 
 Other smaller projects can be viewed on my github profile
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MONKE-source)](https://github.com/anuraghazra/github-readme-stats)
