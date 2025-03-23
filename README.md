@@ -13,9 +13,8 @@ Im also interested in learning more about cybersecurity
 - React native
 
 ## Interests 🤔
-Im interested in learning more about python and javascript  
-Soon hope to learn how to code in flutter  
-
+Im interested in learning more about python and javascript<br>
+I also hope to learn more about arduino 
 
 ## My favourite projects: 
 - [SST Open House App 2024](https://github.com/sst-inc/openhouseapp2024)
@@ -23,6 +22,7 @@ Soon hope to learn how to code in flutter
 - [ML model](https://github.com/tedydevmac/S3T3CPPT)
 - [Virtual tour](https://github.com/tedydevmac/virtualtour)
 
-Other smaller projects can be viewed on my github profile
+Other smaller projects can be viewed on my GitHub profile<br>
+The other projects I have collaborated on are listed [here](https://github.com/stars/MONKE-source/lists/i-worked-on-this)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MONKE-source)](https://github.com/anuraghazra/github-readme-stats)
