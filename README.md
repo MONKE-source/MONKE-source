@@ -17,7 +17,7 @@ I also hope to learn more about arduino
 
 ## My favourite projects: 
 - [SST Open House App 2024](https://github.com/sst-inc/openhouseapp2024)
-- [ASPA App!!](https://github.com/MONKE-source/aspa)
+- [ASPA App!!](https://github.com/arthaggarwal/aspa)
 - [ML model](https://github.com/tedydevmac/S3T3CPPT)
 - [Virtual tour](https://github.com/tedydevmac/virtualtour)
 
