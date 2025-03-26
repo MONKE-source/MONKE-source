@@ -24,4 +24,4 @@ I also hope to learn more about arduino
 Other projects can be viewed on my GitHub profile<br>
 The other projects I have collaborated on are listed [here](https://github.com/stars/MONKE-source/lists/i-worked-on-this)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MONKE-source)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthaggarwal)](https://github.com/anuraghazra/github-readme-stats)
